@@ -1,17 +1,80 @@
+#EXTM3U
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162104
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 2
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162105
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 3
-http://iptvtree.net:8080/devtv/5af3eeb538/162138
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 4
-http://iptvtree.net:8080/devtv/5af3eeb538/162141
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 5
-http://xtv.ooo:8080/3212571066/abc123/350972
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 6
-http://xtv.ooo:8080/3212571066/abc123/35103
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 7
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162106
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 8
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162107
+#EXTINF:0 group-title="MITV LOKAL",  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png", TRANS7
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162502
+
+#EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" , TRANSTV
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162503
+
+#EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157591
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png" , MNCTV
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165054
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png" , GTV
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157578
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" , INDOSIAR 
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162138
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" , INDOSIAR 1
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" , SCTV
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162141
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" , SCTV 1
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png" ,ANTV
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" , TV ONE
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" , NET TV
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" , INEWS
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157579
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cnn-international-int.png" , CNN INDONESIA
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162137
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" , KOMPAS TV
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165060
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" , METRO TV
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165059
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" , TVRI
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/moji-id.png" , MOJI
+http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv-id.png" , RTV
+http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://i.imgur.com/ZREy4zM.png" , BIZNET ADVENTURE
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" , RODJA TV
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" ,  MAGNA TV
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" , CNBC INDONESIA
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165062
+
+#EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/197972
+
+#EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO FAMILY
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/197055
+
+#EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO HITS
+http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/196480
+
