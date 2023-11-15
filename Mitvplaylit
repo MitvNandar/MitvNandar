@@ -166,6 +166,10 @@ http://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h121/01.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="MOVIES", ID: HBO
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/197972
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/0a/Piala_Dunia_U-17_FIFA_2023.png" group-title="#🇮🇩LIVE WORLD CUP U17🇮🇩#", SERVER 1
@@ -334,99 +338,6 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683089&ex
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="NASIONAL", OUTDOOR
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&extension=ts&play_token=GVZS088tcf
 
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", BERNAMA NEWS
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571307&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="MALAYSIA", Nickelodeon
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571283&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="MALAYSIA", TVN Movies
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571261&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="MALAYSIA", TVN
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571260&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AURA
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571257&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO RANIA
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571256&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", RUGBYPASS TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571253&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="MALAYSIA", Hits
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571252&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CNA
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571251&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ZEE TAMIL
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571250&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO CRICKET
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=1036490&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 1
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 3
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO SUPERSPORT 4
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AWANI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571243&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO OASIS
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571238&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO PREMIER
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712430&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", STAR VIJAY
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571235&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AOD 353
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571229&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Animal Planet
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571227&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ASTRO AOD 351
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=5712426&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AXN
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571222&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CRIME INVESTIGATION
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=57122=15&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CINEMAX
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571214&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", CTI ASIA
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571212&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Discovery SCI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571211&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Discovery 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571210&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", HITS MOVIES
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571200&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", IQIY
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571198&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", KIX
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571196&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", ONE
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571193&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", SUN TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571190&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", TCL
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571189&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", TVB JADE
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571187&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", TVB NEWS
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571188&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", WWE
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571184&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", Celestial Classic 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571182&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", DISCOVERY ASIA
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571181&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", FOOD NETWORK
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571179&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="MALAYSIA", AFN
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&extension=ts&play_token=GVZS088tcf
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="BEIN SPORTS", BEIN SPORTS 1 AFC
 https://stream.ayas.ir/hls2/bein1.m3u8 
