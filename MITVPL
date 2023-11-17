@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:0 group-title="MITV LOKAL",  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png", TRANS7
-https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162502
 
 #EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" , TRANSTV
-https://video.detik.com/transtv/smil:transtv.smil/index.m3u
+http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162503
 
 #EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI
 http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157591
