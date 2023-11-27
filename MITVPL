@@ -69,6 +69,10 @@ https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_s
 #EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" , CNBC INDONESIA
 http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165062
 
+
+
+
+
 #EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO
 http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/197972
 
@@ -87,10 +91,248 @@ http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165081
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="MITV MOVIES", AXN
 http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165079
 
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showcase.png" group-title="MITV MOVIES", SHOWTIME SHOWCASE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1236
 
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showcase.png" group-title="MITV MOVIES", SHOWTIME SHOWCASE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2659
 
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimewomen.png" group-title="MITV MOVIES", SHOWTIME WOMEN EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1237
 
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimewomen.png" group-title="MITV MOVIES", SHOWTIME WOMEN WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2660
 
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starz.png" group-title="MITV MOVIES", STARZ EAST
+http://bbiptv.net:8000/Cathy6335/Williams/373
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starz.png" group-title="MITV MOVIES", STARZ WEST
+http://bbiptv.net:8000/Cathy6335/Williams/1254
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcinema.png" group-title="MITV MOVIES", STARZ CINEMA EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1240
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzcinema.png" group-title="MITV MOVIES", STARZ CINEMA WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2662
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MITV MOVIES", STARZ COMEDY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1241
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MITV MOVIES", STARZ COMEDY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2663
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzedge.png" group-title="MITV MOVIES", STARZ EDGE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1242
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzedge.png" group-title="MITV MOVIES", STARZ EDGE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2664
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzinblack.png" group-title="MITV MOVIES", STARZ IN BLACK EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1252
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzinblack.png" group-title="MITV MOVIES", STARZ IN BLACK WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2667
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MITV MOVIES", STARZ KIDS & FAMILY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1253
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MITV MOVIES", STARZ KIDS & FAMILY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2666
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencore.png" group-title="MITV MOVIES", STARZ ENCORE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1243
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzencore.png" group-title="MITV MOVIES", STARZ ENCORE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2665
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MITV MOVIES", STARZ ENCORE ESPANOL EAST
+http://bbiptv.net:8000/Cathy6335/Williams/3474
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MITV MOVIES", STARZ ENCORE ESPANOL WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4189
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MITV MOVIES", STARZ ENCORE ACTION EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1244
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MITV MOVIES", STARZ ENCORE ACTION WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4183
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MITV MOVIES", STARZ ENCORE BLACK EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1245
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MITV MOVIES", STARZ ENCORE BLACK WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4184
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MITV MOVIES", STARZ ENCORE CLASSIC EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1246
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MITV MOVIES", STARZ ENCORE CLASSIC WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4185
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MITV MOVIES", STARZ ENCORE FAMILY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1248
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MITV MOVIES", STARZ ENCORE FAMILY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4186
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MITV MOVIES", STARZ ENCORE SUSPENSE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1249
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MITV MOVIES", STARZ ENCORE SUSPENSE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4187
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MITV MOVIES", STARZ ENCORE WESTERNS EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1251
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MITV MOVIES", STARZ ENCORE WESTERNS WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4188
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MITV MOVIES", CINEMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/71
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MITV MOVIES", CINEMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/72
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/5starmax.png" group-title="MITV MOVIES", CINEMAX 5STARMAX
+http://bbiptv.net:8000/Cathy6335/Williams/1164
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/actionmax.png" group-title="MITV MOVIES", CINEMAX ACTIONMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1163
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/actionmax.png" group-title="MITV MOVIES", CINEMAX ACTIONMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2627
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/cinemax.png" group-title="MITV MOVIES", CINEMAX LATINO
+http://bbiptv.net:8000/Cathy6335/Williams/3867
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moremax.png" group-title="MITV MOVIES", CINEMAX MOREMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1655
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/moremax.png" group-title="MITV MOVIES", CINEMAX MOREMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2628
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moviemax.png" group-title="MITV MOVIES", CINEMAX MOVIEMAX
+http://bbiptv.net:8000/Cathy6335/Williams/1656
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/outermax.png" group-title="MITV MOVIES", CINEMAX OUTERMAX
+http://bbiptv.net:8000/Cathy6335/Williams/1657
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/thrillermax.png" group-title="MITV MOVIES", CINEMAX THRILLERMAX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1658
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/thrillermax.png" group-title="MITV MOVIES", CINEMAX THRILLERMAX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2629
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MITV MOVIES", HBO EAST
+http://bbiptv.net:8000/Cathy6335/Williams/69
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MITV MOVIES", HBO WEST
+http://bbiptv.net:8000/Cathy6335/Williams/70
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/hbo2.png" group-title="MITV MOVIES", HBO 2 EAST
+http://bbiptv.net:8000/Cathy6335/Williams/2943
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo2.png" group-title="MITV MOVIES", HBO 2 WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4162
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbocomedy.png" group-title="MITV MOVIES", HBO COMEDY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1659
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbocomedy.png" group-title="MITV MOVIES", HBO COMEDY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2630
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbofamily.png" group-title="MITV MOVIES", HBO FAMILY EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1207
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbofamily.png" group-title="MITV MOVIES", HBO FAMILY WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2631
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MITV MOVIES", HBO LATINO EAST
+http://bbiptv.net:8000/Cathy6335/Williams/3866
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MITV MOVIES", HBO LATINO WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4178
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbosignature.png" group-title="MITV MOVIES", HBO SIGNATURE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1432
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbosignature.png" group-title="MITV MOVIES", HBO SIGNATURE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2632
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbozone.png" group-title="MITV MOVIES", HBO ZONE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1660
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbozone.png" group-title="MITV MOVIES", HBO ZONE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2633
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hdnet.png" group-title="MITV MOVIES", HDNET MOVIES
+http://bbiptv.net:8000/Cathy6335/Williams/1208
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MITV MOVIES", INDIE PLEX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1209
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MITV MOVIES", INDIE PLEX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4180
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Yn8txHE2dyvFHvoYwMovZZ31wfY6zcWRMfugBr6bDMtq8ldci2ZmI1HnwWhOxIPSRNAenFh1hO8=ns-nd" group-title="MITV MOVIES", MGM+
+http://bbiptv.net:8000/Cathy6335/Williams/374
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/hiV1m3YK_ILYiuyo3T1VsQ5aIyKmoZRkqcJhzYurTVXmwFPULezUG0Rq-I9hHE1bimki2JZXfDH-3g=ns-nd" group-title="MITV MOVIES", MGM+ MARQUEE
+http://bbiptv.net:8000/Cathy6335/Williams/375
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/umVrzYeNsqcfAfnW4kZVvuQzoFR3ccWddjpfDjJvrCO29GPt0uDDP2aYkeQsItD0t7J9DwsqtTs=ns-nd" group-title="MITV MOVIES", MGM+ DRIVE-IN
+http://bbiptv.net:8000/Cathy6335/Williams/1205
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/03EirdfNDGlhSZWg8LJRvu1-TfriBrfG-MbcQfsOOrPqG4Pwh-XC8iZpafFZ91kjzr3l2ffDX2N0=ns-nd" group-title="MITV MOVIES", MGM+ HITS
+http://bbiptv.net:8000/Cathy6335/Williams/76
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MITV MOVIES", MOVIE PLEX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1212
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MITV MOVIES", MOVIE PLEX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4181
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MITV MOVIES", RETRO PLEX EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1230
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MITV MOVIES", RETRO PLEX WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4182
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MITV MOVIES", SHOWTIME EAST
+http://bbiptv.net:8000/Cathy6335/Williams/73
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MITV MOVIES", SHOWTIME WEST
+http://bbiptv.net:8000/Cathy6335/Williams/74
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtime2.png" group-title="MITV MOVIES", SHOWTIME 2 EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1231
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MITV MOVIES", SHOWTIME 2 WEST
+http://bbiptv.net:8000/Cathy6335/Williams/4840
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MITV MOVIES", SHO x  BET EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1232
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MITV MOVIES", SHO x BET WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2655
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimeextreme.png" group-title="MITV MOVIES", SHOWTIME EXTREME EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1233
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimeextreme.png" group-title="MITV MOVIES", SHOWTIME EXTREME WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2656
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimefamilyzone.png" group-title="MITV MOVIES", SHOWTIME FAMILY ZONE EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1234
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimefamilyzone.png" group-title="MITV MOVIES", SHOWTIME FAMILY ZONE WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2657
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimenext.png" group-title="MITV MOVIES", SHOWTIME NEXT EAST
+http://bbiptv.net:8000/Cathy6335/Williams/1235
+
+#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimenext.png" group-title="MITV MOVIES", SHOWTIME NEXT WEST
+http://bbiptv.net:8000/Cathy6335/Williams/2658
 
 
 
@@ -1758,248 +2000,8 @@ http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=534440&ex
 
 
 
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MOVIE MANCANEGARA", CINEMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/71
 
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MOVIE MANCANEGARA", CINEMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/72
 
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/5starmax.png" group-title="MOVIE MANCANEGARA", CINEMAX 5STARMAX
-http://bbiptv.net:8000/Cathy6335/Williams/1164
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/actionmax.png" group-title="MOVIE MANCANEGARA", CINEMAX ACTIONMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1163
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/actionmax.png" group-title="MOVIE MANCANEGARA", CINEMAX ACTIONMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2627
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/cinemax.png" group-title="MOVIE MANCANEGARA", CINEMAX LATINO
-http://bbiptv.net:8000/Cathy6335/Williams/3867
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moremax.png" group-title="MOVIE MANCANEGARA", CINEMAX MOREMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1655
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/moremax.png" group-title="MOVIE MANCANEGARA", CINEMAX MOREMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2628
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moviemax.png" group-title="MOVIE MANCANEGARA", CINEMAX MOVIEMAX
-http://bbiptv.net:8000/Cathy6335/Williams/1656
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/outermax.png" group-title="MOVIE MANCANEGARA", CINEMAX OUTERMAX
-http://bbiptv.net:8000/Cathy6335/Williams/1657
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/thrillermax.png" group-title="MOVIE MANCANEGARA", CINEMAX THRILLERMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1658
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/thrillermax.png" group-title="MOVIE MANCANEGARA", CINEMAX THRILLERMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2629
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MOVIE MANCANEGARA", HBO EAST
-http://bbiptv.net:8000/Cathy6335/Williams/69
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MOVIE MANCANEGARA", HBO WEST
-http://bbiptv.net:8000/Cathy6335/Williams/70
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/hbo2.png" group-title="MOVIE MANCANEGARA", HBO 2 EAST
-http://bbiptv.net:8000/Cathy6335/Williams/2943
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo2.png" group-title="MOVIE MANCANEGARA", HBO 2 WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4162
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbocomedy.png" group-title="MOVIE MANCANEGARA", HBO COMEDY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1659
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbocomedy.png" group-title="MOVIE MANCANEGARA", HBO COMEDY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2630
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbofamily.png" group-title="MOVIE MANCANEGARA", HBO FAMILY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1207
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbofamily.png" group-title="MOVIE MANCANEGARA", HBO FAMILY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2631
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MOVIE MANCANEGARA", HBO LATINO EAST
-http://bbiptv.net:8000/Cathy6335/Williams/3866
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MOVIE MANCANEGARA", HBO LATINO WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4178
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbosignature.png" group-title="MOVIE MANCANEGARA", HBO SIGNATURE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1432
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbosignature.png" group-title="MOVIE MANCANEGARA", HBO SIGNATURE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2632
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbozone.png" group-title="MOVIE MANCANEGARA", HBO ZONE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1660
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbozone.png" group-title="MOVIE MANCANEGARA", HBO ZONE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2633
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hdnet.png" group-title="MOVIE MANCANEGARA", HDNET MOVIES
-http://bbiptv.net:8000/Cathy6335/Williams/1208
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MOVIE MANCANEGARA", INDIE PLEX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1209
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MOVIE MANCANEGARA", INDIE PLEX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4180
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Yn8txHE2dyvFHvoYwMovZZ31wfY6zcWRMfugBr6bDMtq8ldci2ZmI1HnwWhOxIPSRNAenFh1hO8=ns-nd" group-title="MOVIE MANCANEGARA", MGM+
-http://bbiptv.net:8000/Cathy6335/Williams/374
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/hiV1m3YK_ILYiuyo3T1VsQ5aIyKmoZRkqcJhzYurTVXmwFPULezUG0Rq-I9hHE1bimki2JZXfDH-3g=ns-nd" group-title="MOVIE MANCANEGARA", MGM+ MARQUEE
-http://bbiptv.net:8000/Cathy6335/Williams/375
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/umVrzYeNsqcfAfnW4kZVvuQzoFR3ccWddjpfDjJvrCO29GPt0uDDP2aYkeQsItD0t7J9DwsqtTs=ns-nd" group-title="MOVIE MANCANEGARA", MGM+ DRIVE-IN
-http://bbiptv.net:8000/Cathy6335/Williams/1205
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/03EirdfNDGlhSZWg8LJRvu1-TfriBrfG-MbcQfsOOrPqG4Pwh-XC8iZpafFZ91kjzr3l2ffDX2N0=ns-nd" group-title="MOVIE MANCANEGARA", MGM+ HITS
-http://bbiptv.net:8000/Cathy6335/Williams/76
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MOVIE MANCANEGARA", MOVIE PLEX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1212
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MOVIE MANCANEGARA", MOVIE PLEX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4181
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MOVIE MANCANEGARA", RETRO PLEX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1230
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MOVIE MANCANEGARA", RETRO PLEX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4182
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MOVIE MANCANEGARA", SHOWTIME EAST
-http://bbiptv.net:8000/Cathy6335/Williams/73
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MOVIE MANCANEGARA", SHOWTIME WEST
-http://bbiptv.net:8000/Cathy6335/Williams/74
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtime2.png" group-title="MOVIE MANCANEGARA", SHOWTIME 2 EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1231
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MOVIE MANCANEGARA", SHOWTIME 2 WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4840
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MOVIE MANCANEGARA", SHO x  BET EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1232
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MOVIE MANCANEGARA", SHO x BET WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2655
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimeextreme.png" group-title="MOVIE MANCANEGARA", SHOWTIME EXTREME EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1233
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimeextreme.png" group-title="MOVIE MANCANEGARA", SHOWTIME EXTREME WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2656
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimefamilyzone.png" group-title="MOVIE MANCANEGARA", SHOWTIME FAMILY ZONE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1234
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimefamilyzone.png" group-title="MOVIE MANCANEGARA", SHOWTIME FAMILY ZONE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2657
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimenext.png" group-title="MOVIE MANCANEGARA", SHOWTIME NEXT EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1235
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimenext.png" group-title="MOVIE MANCANEGARA", SHOWTIME NEXT WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2658
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showcase.png" group-title="MOVIE MANCANEGARA", SHOWTIME SHOWCASE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1236
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showcase.png" group-title="MOVIE MANCANEGARA", SHOWTIME SHOWCASE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2659
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimewomen.png" group-title="MOVIE MANCANEGARA", SHOWTIME WOMEN EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1237
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimewomen.png" group-title="MOVIE MANCANEGARA", SHOWTIME WOMEN WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2660
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starz.png" group-title="MOVIE MANCANEGARA", STARZ EAST
-http://bbiptv.net:8000/Cathy6335/Williams/373
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starz.png" group-title="MOVIE MANCANEGARA", STARZ WEST
-http://bbiptv.net:8000/Cathy6335/Williams/1254
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcinema.png" group-title="MOVIE MANCANEGARA", STARZ CINEMA EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1240
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzcinema.png" group-title="MOVIE MANCANEGARA", STARZ CINEMA WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2662
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MOVIE MANCANEGARA", STARZ COMEDY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1241
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MOVIE MANCANEGARA", STARZ COMEDY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2663
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzedge.png" group-title="MOVIE MANCANEGARA", STARZ EDGE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1242
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzedge.png" group-title="MOVIE MANCANEGARA", STARZ EDGE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2664
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzinblack.png" group-title="MOVIE MANCANEGARA", STARZ IN BLACK EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1252
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzinblack.png" group-title="MOVIE MANCANEGARA", STARZ IN BLACK WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2667
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MOVIE MANCANEGARA", STARZ KIDS & FAMILY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1253
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MOVIE MANCANEGARA", STARZ KIDS & FAMILY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2666
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencore.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1243
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzencore.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2665
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ESPANOL EAST
-http://bbiptv.net:8000/Cathy6335/Williams/3474
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ESPANOL WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4189
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ACTION EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1244
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE ACTION WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4183
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE BLACK EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1245
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE BLACK WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4184
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE CLASSIC EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1246
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE CLASSIC WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4185
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE FAMILY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1248
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE FAMILY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4186
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE SUSPENSE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1249
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE SUSPENSE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4187
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE WESTERNS EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1251
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MOVIE MANCANEGARA", STARZ ENCORE WESTERNS WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4188
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Movie
 http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15010/index.m3u8
