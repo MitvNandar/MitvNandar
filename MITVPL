@@ -1,1075 +1,122 @@
 #EXTM3U
 
-#EXTINF:0 group-title="MITV LOKAL",  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-7-id.png", TRANS7
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
+《《===========INDONESIA CHANEL============》》
 
-#EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" , TRANSTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rcti-id.png", RCTI
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157591
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png" , MNCTV
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165054
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png" , GTV
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157578
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" , INDOSIAR 
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162138
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/indosiar-id.png" , INDOSIAR 1
-http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" , SCTV
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162141
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" , SCTV 1
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
-
-#EXTINF:0 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png" ,ANTV
+            》》》》ANTV《《《《
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png" group-title="MITV", ANTV HD1
+#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704460&extension=ts&play_token=72DbMDZGGh
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/antv-id.png" group-title="MITV",ANTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" , TV ONE
-http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" , NET TV
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/inews-id.png" , INEWS
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/157579
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/cnn-international-int.png" , CNN INDONESIA
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/162137
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" , KOMPAS TV
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165060
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" , METRO TV
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165059
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" , TVRI
-http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/moji-id.png" , MOJI
-http://op-group1-swiftservehd-1.dens.tv/h/h210/01.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv-id.png" , RTV
-http://op-group1-swiftservehd-1.dens.tv/h/h10/02.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://i.imgur.com/ZREy4zM.png" , BIZNET ADVENTURE
-http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Rodja_TV.png/revision/latest?cb=20180922034039" , RODJA TV
-http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png" ,  MAGNA TV
-https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
-
-#EXTINF:-1 group-title="MITV LOKAL", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png" , CNBC INDONESIA
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/165062
-
-
-
-
-
-#EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/197972
-
-#EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO FAMILY
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/197055
-
-#EXTINF:-1 group-title="MITV MOVIES", tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" , HBO HITS
-http://aflaxtv.xyz:8080/kodicologne/NCvzkVPeXbuJfaM8T6QmSn/196480
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="MITV MOVIES", ANIMAL PLANET
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/157532
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="MITV MOVIES", ANIMAX
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165081
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="MITV MOVIES", AXN
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/165079
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showcase.png" group-title="MITV MOVIES", SHOWTIME SHOWCASE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1236
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showcase.png" group-title="MITV MOVIES", SHOWTIME SHOWCASE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2659
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimewomen.png" group-title="MITV MOVIES", SHOWTIME WOMEN EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1237
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimewomen.png" group-title="MITV MOVIES", SHOWTIME WOMEN WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2660
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starz.png" group-title="MITV MOVIES", STARZ EAST
-http://bbiptv.net:8000/Cathy6335/Williams/373
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starz.png" group-title="MITV MOVIES", STARZ WEST
-http://bbiptv.net:8000/Cathy6335/Williams/1254
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcinema.png" group-title="MITV MOVIES", STARZ CINEMA EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1240
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzcinema.png" group-title="MITV MOVIES", STARZ CINEMA WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2662
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MITV MOVIES", STARZ COMEDY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1241
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzcomdey.png" group-title="MITV MOVIES", STARZ COMEDY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2663
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzedge.png" group-title="MITV MOVIES", STARZ EDGE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1242
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzedge.png" group-title="MITV MOVIES", STARZ EDGE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2664
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzinblack.png" group-title="MITV MOVIES", STARZ IN BLACK EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1252
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzinblack.png" group-title="MITV MOVIES", STARZ IN BLACK WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2667
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MITV MOVIES", STARZ KIDS & FAMILY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1253
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzkids.png" group-title="MITV MOVIES", STARZ KIDS & FAMILY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2666
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencore.png" group-title="MITV MOVIES", STARZ ENCORE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1243
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/starzencore.png" group-title="MITV MOVIES", STARZ ENCORE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2665
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MITV MOVIES", STARZ ENCORE ESPANOL EAST
-http://bbiptv.net:8000/Cathy6335/Williams/3474
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/StarzEncoreEspanol.png" group-title="MITV MOVIES", STARZ ENCORE ESPANOL WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4189
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MITV MOVIES", STARZ ENCORE ACTION EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1244
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreaction.png" group-title="MITV MOVIES", STARZ ENCORE ACTION WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4183
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MITV MOVIES", STARZ ENCORE BLACK EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1245
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreblack.png" group-title="MITV MOVIES", STARZ ENCORE BLACK WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4184
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MITV MOVIES", STARZ ENCORE CLASSIC EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1246
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencoreclassic.png" group-title="MITV MOVIES", STARZ ENCORE CLASSIC WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4185
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MITV MOVIES", STARZ ENCORE FAMILY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1248
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorefamily.png" group-title="MITV MOVIES", STARZ ENCORE FAMILY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4186
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MITV MOVIES", STARZ ENCORE SUSPENSE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1249
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencouresuspense.png" group-title="MITV MOVIES", STARZ ENCORE SUSPENSE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4187
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MITV MOVIES", STARZ ENCORE WESTERNS EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1251
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/starzencorewestern.png" group-title="MITV MOVIES", STARZ ENCORE WESTERNS WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4188
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MITV MOVIES", CINEMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/71
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/cinemax.png" group-title="MITV MOVIES", CINEMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/72
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/5starmax.png" group-title="MITV MOVIES", CINEMAX 5STARMAX
-http://bbiptv.net:8000/Cathy6335/Williams/1164
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/actionmax.png" group-title="MITV MOVIES", CINEMAX ACTIONMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1163
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/actionmax.png" group-title="MITV MOVIES", CINEMAX ACTIONMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2627
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/cinemax.png" group-title="MITV MOVIES", CINEMAX LATINO
-http://bbiptv.net:8000/Cathy6335/Williams/3867
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moremax.png" group-title="MITV MOVIES", CINEMAX MOREMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1655
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/moremax.png" group-title="MITV MOVIES", CINEMAX MOREMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2628
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/moviemax.png" group-title="MITV MOVIES", CINEMAX MOVIEMAX
-http://bbiptv.net:8000/Cathy6335/Williams/1656
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/outermax.png" group-title="MITV MOVIES", CINEMAX OUTERMAX
-http://bbiptv.net:8000/Cathy6335/Williams/1657
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/thrillermax.png" group-title="MITV MOVIES", CINEMAX THRILLERMAX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1658
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/thrillermax.png" group-title="MITV MOVIES", CINEMAX THRILLERMAX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2629
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MITV MOVIES", HBO EAST
-http://bbiptv.net:8000/Cathy6335/Williams/69
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo.png" group-title="MITV MOVIES", HBO WEST
-http://bbiptv.net:8000/Cathy6335/Williams/70
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/hbo2.png" group-title="MITV MOVIES", HBO 2 EAST
-http://bbiptv.net:8000/Cathy6335/Williams/2943
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbo2.png" group-title="MITV MOVIES", HBO 2 WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4162
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbocomedy.png" group-title="MITV MOVIES", HBO COMEDY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1659
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbocomedy.png" group-title="MITV MOVIES", HBO COMEDY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2630
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbofamily.png" group-title="MITV MOVIES", HBO FAMILY EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1207
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbofamily.png" group-title="MITV MOVIES", HBO FAMILY WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2631
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MITV MOVIES", HBO LATINO EAST
-http://bbiptv.net:8000/Cathy6335/Williams/3866
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbolatino.png" group-title="MITV MOVIES", HBO LATINO WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4178
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbosignature.png" group-title="MITV MOVIES", HBO SIGNATURE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1432
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbosignature.png" group-title="MITV MOVIES", HBO SIGNATURE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2632
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hbozone.png" group-title="MITV MOVIES", HBO ZONE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1660
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/hbozone.png" group-title="MITV MOVIES", HBO ZONE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2633
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/hdnet.png" group-title="MITV MOVIES", HDNET MOVIES
-http://bbiptv.net:8000/Cathy6335/Williams/1208
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MITV MOVIES", INDIE PLEX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1209
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/indieplex.png" group-title="MITV MOVIES", INDIE PLEX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4180
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/Yn8txHE2dyvFHvoYwMovZZ31wfY6zcWRMfugBr6bDMtq8ldci2ZmI1HnwWhOxIPSRNAenFh1hO8=ns-nd" group-title="MITV MOVIES", MGM+
-http://bbiptv.net:8000/Cathy6335/Williams/374
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/hiV1m3YK_ILYiuyo3T1VsQ5aIyKmoZRkqcJhzYurTVXmwFPULezUG0Rq-I9hHE1bimki2JZXfDH-3g=ns-nd" group-title="MITV MOVIES", MGM+ MARQUEE
-http://bbiptv.net:8000/Cathy6335/Williams/375
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/umVrzYeNsqcfAfnW4kZVvuQzoFR3ccWddjpfDjJvrCO29GPt0uDDP2aYkeQsItD0t7J9DwsqtTs=ns-nd" group-title="MITV MOVIES", MGM+ DRIVE-IN
-http://bbiptv.net:8000/Cathy6335/Williams/1205
-
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/03EirdfNDGlhSZWg8LJRvu1-TfriBrfG-MbcQfsOOrPqG4Pwh-XC8iZpafFZ91kjzr3l2ffDX2N0=ns-nd" group-title="MITV MOVIES", MGM+ HITS
-http://bbiptv.net:8000/Cathy6335/Williams/76
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MITV MOVIES", MOVIE PLEX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1212
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/movieplex.png" group-title="MITV MOVIES", MOVIE PLEX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4181
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MITV MOVIES", RETRO PLEX EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1230
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/retroplex.png" group-title="MITV MOVIES", RETRO PLEX WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4182
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MITV MOVIES", SHOWTIME EAST
-http://bbiptv.net:8000/Cathy6335/Williams/73
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MITV MOVIES", SHOWTIME WEST
-http://bbiptv.net:8000/Cathy6335/Williams/74
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtime2.png" group-title="MITV MOVIES", SHOWTIME 2 EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1231
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtime.png" group-title="MITV MOVIES", SHOWTIME 2 WEST
-http://bbiptv.net:8000/Cathy6335/Williams/4840
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MITV MOVIES", SHO x  BET EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1232
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/shobet.png" group-title="MITV MOVIES", SHO x BET WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2655
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimeextreme.png" group-title="MITV MOVIES", SHOWTIME EXTREME EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1233
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimeextreme.png" group-title="MITV MOVIES", SHOWTIME EXTREME WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2656
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimefamilyzone.png" group-title="MITV MOVIES", SHOWTIME FAMILY ZONE EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1234
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimefamilyzone.png" group-title="MITV MOVIES", SHOWTIME FAMILY ZONE WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2657
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/showtimenext.png" group-title="MITV MOVIES", SHOWTIME NEXT EAST
-http://bbiptv.net:8000/Cathy6335/Williams/1235
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/showtimenext.png" group-title="MITV MOVIES", SHOWTIME NEXT WEST
-http://bbiptv.net:8000/Cathy6335/Williams/2658
-
-
-
-#EXTINF:-1 tvg-logo="____" group-title="SPORT", ASTRO SUPERSPORT 1
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571245&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="SPORT", ASTRO SUPERSPORT 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="SPORT", ASTRO SUPERSPORT 3
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571247&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="____" group-title="SPORT", ASTRO SUPERSPORT 4
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571246&extension=ts&play_token=GVZS088tcf
-
-
-
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 1
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162138
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 2
-http://iptvtree.net:8080/87b43fb3/d8db7a3d96/162141
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 3
-http://iptvtree.net:8080/devtv/5af3eeb538/162138
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 4
-http://iptvtree.net:8080/devtv/5af3eeb538/162141
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 5
+            》》》》TRANS7《《《《
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MITV",Trans7
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
+
+            》》》》TRANSTV《《《《
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/trans-tv-id.png" group-title="MITV",TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u
+
+            》》》》RCTI《《《《
+#EXTINF:0 tvg-country="ID" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="MITV",RCTI 1
+http://xtv.ooo:8080/3212571066/abc123/351023
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MITV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png",RCTI 2
+https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+
+            》》》》MNCTV《《《《
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MITV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/mnc-tv-id.png",MNC TV
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+            》》》》GTV《《《《
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-title="MITV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/gtv-id.png",GTV
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+            》》》》INDOSIAR《《《
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="MITV",INDOSIAR 1
 http://xtv.ooo:8080/3212571066/abc123/350972
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE LOKAL 6
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/indosiar.png" group-title="MITV",INDOSIAR 2
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+
+            》》》》SCTV《《《《
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" group-title="MITV",SCTV 1
 http://xtv.ooo:8080/3212571066/abc123/351030
 
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="SPORT", BEIN SPORT 5
-https://stream.ayas.ir/hls2/bein5.m3u8
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 2
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1350754_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 3
-https://i.mjh.nz/SamsungTVPlus/ITBD1000002HF.m3u8
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 4
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1021130_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 5
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=47346_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 6
-http://mol-2.com:8080/play/live.php?mac=00:1A:79:b9:f0:90&stream=55550&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 7
-http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=861836&extension=ts&play_token=k8hN59PvTf
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 8
-http://line.sohakiller.net:80/play/live.php?mac=00:1A:79:6B:06:77&stream=552870_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 9
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=571248&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 10
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=50530_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 11
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1756294_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 12
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497336_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 13
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=1497338_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 14
-http://new.ivue.co:25461/play/live.php?mac=00:1A:79:DE:27:60&stream=2594_&extension=ts
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 15
-http://sunmodernfxz.xyz/play/live.php?mac=00:1A:79:bc:cf:4e&stream=311684&extension=ts&play_token=k8hN59PvTf
-#EXTINF:-1 tvg-logo="https://assets.indopos.co.id/2023/09/piala-dunia-u-17.jpg" group-title="#🏆LIVE WC U17🏆#", LIVE 16
-http://iptv.jinbox.eu:1339/play/live.php?mac=00:1A:79:BD:1A:4A&stream=21993_&extension=ts&play_token=sJ9P2ZlkWC
-
-
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="NASIONAL", INDOSIAR
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=994885&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/6dca0f82c0415242463eab39b28fd715.png" group-title="NASIONAL", KOMPAS TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683194&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/baae5840cf8cfd60d1bd93565e00ff59.png" group-title="NASIONAL", ANTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683153&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/0994a7413bfc1f57f5c00a777a8b2a34.png" group-title="NASIONAL", TRANS 7
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683116&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", TRANS 7 S2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=153793_&extension=ts
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/924d40ca9187329b206629697e2cfeb4.png" group-title="NASIONAL", TRANS TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683100&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png" group-title="NASIONAL", RCTI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683099&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/12cf417a2f27f6bd0cdc7e212859dfe1.png" group-title="NASIONAL", MNC TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683098&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Arrasyid22/inaldie/main/LOGO%20TELE.jpg" group-title="NASIONAL", MNC TV S2
-http://Iptv.darktv.nl:80/play/live.php?mac=00:1A:79:a7:81:1b&stream=153789_&extension=ts
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2498aa1ffc66cf53f77c63b77a787d3a.png" group-title="NASIONAL", GTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683121&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="NASIONAL", TV One
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683101&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0d6aa1d2981e77a4613a82f086c66e6f.png" group-title="NASIONAL", Metro TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683181&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/708e6db12bbe5bfc95557e44f72ab6a0.png" group-title="NASIONAL", Net TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683093&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/553fc8904e711c0a1bf4f84ece28e985.png" group-title="NASIONAL", Rajawali TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683095&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d606abe507f84e193a4667de2caf6c7f.png" group-title="NASIONAL", OK TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683105&extension=ts&play_token=GVZS088tcf 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/520121649c890cfb036e87548beffed6.png" group-title="NASIONAL", Jak TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683180&extension=ts&play_token=GVZS088tcf 
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/1cf2bc6e1e92eb6b90d262ac626787f7.png" group-title="NASIONAL", JTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683115&extension=ts&play_token=GVZS088tcf 
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/bd019732db2be6aed863964f280e1d0c.svg" group-title="NASIONAL", Berita Satu
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683182&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="NASIONAL", Entertainment
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683188&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/fa116bfa87b7355a9f73a63f8070843c.png" group-title="NASIONAL", TVRI
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8d73d72ec854dfe8a9c9865555bb9728.png" group-title="NASIONAL", CNN Indonesia
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683195&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NASIONAL", Infotainment
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683126&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/aace6b866a640045edacb67fe95b4435.png" group-title="NASIONAL", Vision Prime
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683124&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/572ee91ff1e528d04284dd7e952bed14.png" group-title="NASIONAL", MTA TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="NASIONAL", ONE
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683130&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/16d25160960bdf82fb24de6143ae7ae9.png" group-title="NASIONAL", KIX
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683134&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/03722835968ebf5a812fcb4ad2d041dc.png" group-title="NASIONAL", Celestial Movies
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683142&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e781645d9f686de47e29b212df4791a1.png" group-title="NASIONAL", CCM
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683110&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c99306ef4b6afd25b48264fb45e91306.png" group-title="NASIONAL", TVN Movies
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683149&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/d8a152836e34ee6141b7efdf3d10da5b.png" group-title="NASIONAL", TVN
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/9397a211ee5003fca0d125a8c2232edd.png" group-title="NASIONAL", Thrill
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683148&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="NASIONAL", CinemaWorld
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683146&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/ae782ad6176bbda366bbaf7e52bdff09.png" group-title="NASIONAL", Hits
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683145&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/0f522aea18d3fbc38100a8f629bb4f07.png" group-title="NASIONAL", Hits Movies
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683163&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4ffa668fdf208ec522418bd231225c7f.png" group-title="NASIONAL", Zee Bioskop
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683155&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="NASIONAL", My Cinema
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683152&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Cinema Asia
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683151&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7602d6c9a46aec9787799e32fda8d070.png" group-title="NASIONAL", My Family Cinema 
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683150&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_6.png" group-title="NASIONAL", Cinemachi Extra
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683161&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_10.png" group-title="NASIONAL", Cinemachi Max
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683173&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_9.png" group-title="NASIONAL", Cinemachi Kids
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683085&extension=ts&play_token=GVZS088tcf
-
-#EXTINF:-1 tvg-logo="https://tv.xcoshop.com/wp-content/uploads/2022/10/XING-KONG-919-523-new.png" group-title="NASIONAL", XingkongTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/72d376f51855e885d4d094d6f697324e.png" group-title="NASIONAL", Rock Action
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683147&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/adfc2c1f1d74779905488ad1bc067153.png" group-title="NASIONAL", Paramount Network
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683174&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="NASIONAL", Animax
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683165&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/my-kidz-id.png" group-title="NASIONAL", MKidZ
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683156&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/5e1f1850a8202cc1ef4f60c2a0e8acd3.png" group-title="NASIONAL", Baby TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683167&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2e7e12a2db287afa4fcc4f41d273004f.png" group-title="NASIONAL", Kids TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683166&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="NASIONAL", ZooMoo
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683172&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/b83befd00501db18989297ee6b217e02.png" group-title="NASIONAL", DreamWorks
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683171&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="NASIONAL", Nickelodeon
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683175&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3c8d63e4a3d5b6c065651caf9a8cde50.png" group-title="NASIONAL", AXN
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683144&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://cdn.okezone.com/underwood/revamp/2023/tv/desktop/img/share.jpeg" group-title="NASIONAL", OKEZONE TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683128&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/7aabd389aa14698263ab6099a84ae153.png" group-title="NASIONAL", Lifetime
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683129&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2022-10/81b0c7cdcd17b9278bd3314c401b9600.png" group-title="NASIONAL", Life
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683125&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/276d4bb9823769badeb7209703d9e83a.png" group-title="NASIONAL", TV 9 Nusantara
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683196&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5c412828b788580430141e8acf3d7425.png" group-title="NASIONAL", FMN
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683143&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/957f888d2a434d5f6a1526e178dcec47.png" group-title="NASIONAL", SpoTV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683117&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7918790d6ed6e4084150c40fd836251.png" group-title="NASIONAL", SPORTSTAR
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683133&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="NASIONAL", BEIN SPORT
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683139&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/893915344045096960/Yhz3VkSn_400x400.jpg" group-title="NASIONAL", BEIN SPORT 2
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683138&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/9a23440ace36f97097366f4bb8d2ecfa.png" group-title="NASIONAL", Fight Sport
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683135&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/67fd02c3def9c39cfd50f6a5dfd16510.png" group-title="NASIONAL", MNC News
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683193&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/425c62827170957e85a34b7e7563869c.png" group-title="NASIONAL", Bandung TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683107&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_78-iXAaoJEHQQEXHdIMpJCraBNrnZelBEoFFiHtWEeDzaQ8TVVTF--TIY0ua0xttzLM&usqp=CAU" group-title="NASIONAL", Tawaf TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_92.png" group-title="NASIONAL", Muslim TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683103&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://mncvision.tv/userfiles/image/channel/channel_93.png" group-title="NASIONAL", QURAN KARIM TV
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683106&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="NASIONAL", Love Nature
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683089&extension=ts&play_token=GVZS088tcf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Outdoor_Channel_logo_2017.svg/1200px-Outdoor_Channel_logo_2017.svg.png" group-title="NASIONAL", OUTDOOR
-http://line.greatstar.me:80/play/live.php?mac=00:1A:79:BF:E6:C8&stream=683086&extension=ts&play_token=GVZS088tcf
-
-
-
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Movie
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15010/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/10002/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF VHS Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11118/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MM Walt Disney HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/13064/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Yosso TV Disney
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20164/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Dosug TV Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14214/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Citrus Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/16050/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Fresh Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19288/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Kinoshka Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/18056/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Magic Disney HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/18064/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Prokop TV Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/18141/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", VF Disney Cartoon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15027/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NickToons SK
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/6095/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nick Jr
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/114/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/541/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoon Network
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/143/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoonito
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/723/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Baby TV
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/2084/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Da Vinci Kids UA
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/1034/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon EN
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/1069/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NickToons
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/849/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoons 90
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11001/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoons Short
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11002/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoons Big
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11003/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Жара kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14147/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Anime Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14151/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Yosso TV Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/14173/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Liberty Disney FHD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15093/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Disney HD FR
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15185/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", MYTV Kids
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/19409/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", CARTOON NETWORK SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12043/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DISNEY JUNIOR SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12045/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DISNEY XD SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12046/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICK JUNIOR SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12057/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICKELODEON SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12058/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", NICKTOONS SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12059/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BOOMERANG SE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/12097/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon HD DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15182/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Majid Kids TV AE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/15202/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoon Network HD DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20002/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nick Jr. DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20003/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Cartoonito HD (Sky) DE
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20042/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE Nick Jr. (Sky) HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20043/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", DE Cartoon Network (Sky) HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20044/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", Nickelodeon HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/223/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", СТС Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/2001/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BCU Kids HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11035/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BCU Kids+ HD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/11036/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", BCU Kids 4K
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/17023/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="KIDS DISNEY", KLI Kids FHD
-http://3aynck8f.akciatv.ru/iptv/W32ZH5YYLV87AX/20047/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/ITVBe.png" group-title="UK CHANNELS", UK | ITVBE
-http://bbiptv.net:8000/Cathy6335/Williams/1119
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/more4.png" group-title="UK CHANNELS", UK | MORE 4
-http://bbiptv.net:8000/Cathy6335/Williams/1121
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/mtv.png" group-title="UK CHANNELS", UK | MTV
-http://bbiptv.net:8000/Cathy6335/Williams/1738
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/quest.png" group-title="UK CHANNELS", UK | QUEST
-http://bbiptv.net:8000/Cathy6335/Williams/1127
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/qvc.png" group-title="UK CHANNELS", UK | QVC
-http://bbiptv.net:8000/Cathy6335/Williams/1733
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/really.png" group-title="UK CHANNELS", UK | REALLY
-http://bbiptv.net:8000/Cathy6335/Williams/1129
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/s4c.png" group-title="UK CHANNELS", UK | SC4
-http://bbiptv.net:8000/Cathy6335/Williams/1159
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemaactionadventure.png" group-title="UK CHANNELS", UK | SKY CINEMA ACTION & ADVENTURE
-http://bbiptv.net:8000/Cathy6335/Williams/1134
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemacomedy.png" group-title="UK CHANNELS", UK | SKY CINEMA COMEDY
-http://bbiptv.net:8000/Cathy6335/Williams/1135
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemacrimethriller.png" group-title="UK CHANNELS", UK | SKY CINEMA CRIME & THRILLER
-http://bbiptv.net:8000/Cathy6335/Williams/1136
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemadisney.png" group-title="UK CHANNELS", UK | SKY CINEMA DISNEY
-http://bbiptv.net:8000/Cathy6335/Williams/1137
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemadramaromance.png" group-title="UK CHANNELS", UK | SKY CINEMA DRAMA & ROMANCE
-http://bbiptv.net:8000/Cathy6335/Williams/1138
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemafamily.png" group-title="UK CHANNELS", UK | SKY CINEMA FAMILY
-http://bbiptv.net:8000/Cathy6335/Williams/1139
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemagreats.png" group-title="UK CHANNELS", UK | SKY CINEMA GREATS
-http://bbiptv.net:8000/Cathy6335/Williams/1140
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemahits.png" group-title="UK CHANNELS", UK | SKY CINEMA HITS
-http://bbiptv.net:8000/Cathy6335/Williams/1141
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemapremiere.png" group-title="UK CHANNELS", UK | SKY CINEMA PREMIERE
-http://bbiptv.net:8000/Cathy6335/Williams/1142
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemascifihorror.png" group-title="UK CHANNELS", UK | SKY CINEMA SCI-FI & HORROR
-http://bbiptv.net:8000/Cathy6335/Williams/1143
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skycinemaselect.png" group-title="UK CHANNELS", UK | SKY CINEMA SELECT
-http://bbiptv.net:8000/Cathy6335/Williams/1144
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skynews.png" group-title="UK CHANNELS", UK | SKY NEWS
-http://bbiptv.net:8000/Cathy6335/Williams/1145
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsaction.png" group-title="UK CHANNELS", UK | SKY SPORTS ACTION
-http://bbiptv.net:8000/Cathy6335/Williams/1146
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsarena.png" group-title="UK CHANNELS", UK | SKY SPORTS ARENA
-http://bbiptv.net:8000/Cathy6335/Williams/1147
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportscricket.png" group-title="UK CHANNELS", UK | SKY SPORTS CRICKET
-http://bbiptv.net:8000/Cathy6335/Williams/1148
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsf1.png" group-title="UK CHANNELS", UK | SKY SPORTS F1
-http://bbiptv.net:8000/Cathy6335/Williams/1149
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsfootball.png" group-title="UK CHANNELS", UK | SKY SPORTS FOOTBALL
-http://bbiptv.net:8000/Cathy6335/Williams/1150
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsgolf.png" group-title="UK CHANNELS", UK | SKY SPORTS GOLF
-http://bbiptv.net:8000/Cathy6335/Williams/1151
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsmainevent.png" group-title="UK CHANNELS", UK | SKY SPORTS MAIN EVENT
-http://bbiptv.net:8000/Cathy6335/Williams/1152
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/skysportsmix.png" group-title="UK CHANNELS", UK | SKY SPORTS MIX
-http://bbiptv.net:8000/Cathy6335/Williams/1153
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/skysportsnews.png" group-title="UK CHANNELS", UK | SKY SPORTS NEWS
-http://bbiptv.net:8000/Cathy6335/Williams/1154
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/UK/aljazeera.png" group-title="UK CHANNELS", UK | AL JAZEERA
-http://bbiptv.net:8000/Cathy6335/Williams/1734
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | SKY SPORTS RACING
-http://bbiptv.net:8000/Cathy6335/Williams/1128
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | SKY DOCUMENTARIES
-http://bbiptv.net:8000/Cathy6335/Williams/3478
-
-#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="UK CHANNELS", UK | SKY CRIME
-http://bbiptv.net:8000/Cathy6335/Williams/3637
-
-
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/accnetwork.png" group-title="SPORTS USA", ACC NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/170
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/altitude.png" group-title="SPORTS USA", ALTITUDE SPORTS
-http://bbiptv.net:8000/Cathy6335/Williams/4106
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/attsportsnet.png" group-title="SPORTS USA", AT&T SPORTSNET PITTSBURGH
-http://bbiptv.net:8000/Cathy6335/Williams/3802
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/attsportsnet.png" group-title="SPORTS USA", AT&T SPORTSNET ROCKY MOUNTAIN
-http://bbiptv.net:8000/Cathy6335/Williams/3779
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/attsportsnet.png" group-title="SPORTS USA", AT&T SPORTSNET SOUTHWEST
-http://bbiptv.net:8000/Cathy6335/Williams/548
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS ARIZONA
-http://bbiptv.net:8000/Cathy6335/Williams/201
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS INDIANA
-http://bbiptv.net:8000/Cathy6335/Williams/203
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS GREAT LAKES
-http://bbiptv.net:8000/Cathy6335/Williams/205
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS DETROIT
-http://bbiptv.net:8000/Cathy6335/Williams/207
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS FLORIDA
-http://bbiptv.net:8000/Cathy6335/Williams/208
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS KANSAS CITY
-http://bbiptv.net:8000/Cathy6335/Williams/211
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS MID-WEST
-http://bbiptv.net:8000/Cathy6335/Williams/212
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS NEW ORLEANS
-http://bbiptv.net:8000/Cathy6335/Williams/213
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS NORTH
-http://bbiptv.net:8000/Cathy6335/Williams/214
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS OHIO
-http://bbiptv.net:8000/Cathy6335/Williams/217
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOCAL
-http://bbiptv.net:8000/Cathy6335/Williams/219
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SAN DIEGO
-http://bbiptv.net:8000/Cathy6335/Williams/221
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOUTH
-http://bbiptv.net:8000/Cathy6335/Williams/222
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOUTHEAST
-http://bbiptv.net:8000/Cathy6335/Williams/224
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SOUTHWEST
-http://bbiptv.net:8000/Cathy6335/Williams/225
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS SUN
-http://bbiptv.net:8000/Cathy6335/Williams/228
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS TENNESSEE
-http://bbiptv.net:8000/Cathy6335/Williams/229
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS WEST
-http://bbiptv.net:8000/Cathy6335/Williams/230
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/bs.png" group-title="SPORTS USA", BALLY SPORTS WISCONSIN
-http://bbiptv.net:8000/Cathy6335/Williams/231
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/beinsports.png" group-title="SPORTS USA", BEINSPORTS
-http://bbiptv.net:8000/Cathy6335/Williams/1466
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/beinsports.png" group-title="SPORTS USA", BEINSPORTS LA LIGA
-http://bbiptv.net:8000/Cathy6335/Williams/1605
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/btn.png" group-title="SPORTS USA", BIG TEN NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/171
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/cbssn.png" group-title="SPORTS USA", CBS SPORTS NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/175
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/elevensports.png" group-title="SPORTS USA", ELEVEN SPORTS
-http://bbiptv.net:8000/Cathy6335/Williams/176
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espn.png" group-title="SPORTS USA", ESPN
-http://bbiptv.net:8000/Cathy6335/Williams/177
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espn2.png" group-title="SPORTS USA", ESPN 2
-http://bbiptv.net:8000/Cathy6335/Williams/178
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espndeportes.png" group-title="SPORTS USA", ESPN DEPORTES
-http://bbiptv.net:8000/Cathy6335/Williams/181
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/longhorn.png" group-title="SPORTS USA", ESPN LONGHORN NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/183
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espnnews.png" group-title="SPORTS USA", ESPN NEWS
-http://bbiptv.net:8000/Cathy6335/Williams/179
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/sec.png" group-title="SPORTS USA", ESPN SEC NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/184
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/espnu.png" group-title="SPORTS USA", ESPNU
-http://bbiptv.net:8000/Cathy6335/Williams/180
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/foxsoccerplus.png" group-title="SPORTS USA", FOX SOCCER PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/200
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/foxdeportes.png" group-title="SPORTS USA", FOX SPORTS DEPORTES
-http://bbiptv.net:8000/Cathy6335/Williams/206
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/fs1.png" group-title="SPORTS USA", FS1
-http://bbiptv.net:8000/Cathy6335/Williams/195
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/fs2.png" group-title="SPORTS USA", FS2
-http://bbiptv.net:8000/Cathy6335/Williams/196
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/goltv.png" group-title="SPORTS USA", GOL TV
-http://bbiptv.net:8000/Cathy6335/Williams/4682
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/marquee.png" group-title="SPORTS USA", MARQUEE SPORTS
-http://bbiptv.net:8000/Cathy6335/Williams/4812
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/masn.png" group-title="SPORTS USA", MASN 1
-http://bbiptv.net:8000/Cathy6335/Williams/3803
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/masn.png" group-title="SPORTS USA", MASN 2
-http://bbiptv.net:8000/Cathy6335/Williams/3804
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/mavtv.png" group-title="SPORTS USA", MAV TV
-http://bbiptv.net:8000/Cathy6335/Williams/1211
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/mlbnetwork.png" group-title="SPORTS USA", MLB NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/237
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/mlbstrikezone.png" group-title="SPORTS USA", MLB STRIKE ZONE
-http://bbiptv.net:8000/Cathy6335/Williams/3473
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/monumental.png" group-title="SPORTS USA", MONUMENTAL SPORTS NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/249
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/monumental.png" group-title="SPORTS USA", MONUMENTAL SPORTS NETWORK PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/4431
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/motortrend.png" group-title="SPORTS USA", MOTORTREND
-http://bbiptv.net:8000/Cathy6335/Williams/258
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/msg.png" group-title="SPORTS USA", MSG
-http://bbiptv.net:8000/Cathy6335/Williams/1213
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/msg.png" group-title="SPORTS USA", MSG 2
-http://bbiptv.net:8000/Cathy6335/Williams/1214
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msgplus.png" group-title="SPORTS USA", MSGSN
-http://bbiptv.net:8000/Cathy6335/Williams/1216
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msgplus.png" group-title="SPORTS USA", MSGSN 2
-http://bbiptv.net:8000/Cathy6335/Williams/2982
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msg.png" group-title="SPORTS USA", MSG BUFFALO
-http://bbiptv.net:8000/Cathy6335/Williams/4124
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/msg.png" group-title="SPORTS USA", MSG BUFFALO PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/4157
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nbatv.png" group-title="SPORTS USA", NBA TV
-http://bbiptv.net:8000/Cathy6335/Williams/238
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/golfchannel.png" group-title="SPORTS USA", NBC GOLF CHANNEL
-http://bbiptv.net:8000/Cathy6335/Williams/251
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnbayarea.png" group-title="SPORTS USA", NBCSN BAY AREA
-http://bbiptv.net:8000/Cathy6335/Williams/240
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnbayarea.png" group-title="SPORTS USA", NBCSN BAY AREA PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/4428
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnboston.png" group-title="SPORTS USA", NBCSN BOSTON
-http://bbiptv.net:8000/Cathy6335/Williams/242
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnca.png" group-title="SPORTS USA", NBCSN CALIFORNIA
-http://bbiptv.net:8000/Cathy6335/Williams/243
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnchicago.png" group-title="SPORTS USA", NBCSN CHICAGO
-http://bbiptv.net:8000/Cathy6335/Williams/245
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnchicago.png" group-title="SPORTS USA", NBCSN CHICAGO PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/4429
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnphilly.png" group-title="SPORTS USA", NBCSN PHILADELPHIA
-http://bbiptv.net:8000/Cathy6335/Williams/247
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nbcsnphilly.png" group-title="SPORTS USA", NBCSN PHILADELPHIA PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/4430
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/nesn.png" group-title="SPORTS USA", NESN
-http://bbiptv.net:8000/Cathy6335/Williams/521
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo//USA/nesnplus.png" group-title="SPORTS USA", NESN PLUS
-http://bbiptv.net:8000/Cathy6335/Williams/522
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nflnetwork.png" group-title="SPORTS USA", NFL NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/252
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nflredzone.png" group-title="SPORTS USA", NFL REDZONE
-http://bbiptv.net:8000/Cathy6335/Williams/2981
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/nhlnetwork.png" group-title="SPORTS USA", NHL NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/253
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12networks.png" group-title="SPORTS USA", PAC12 NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/1224
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12az.png" group-title="SPORTS USA", PAC12 ARIZONA
-http://bbiptv.net:8000/Cathy6335/Williams/1220
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12ba.png" group-title="SPORTS USA", PAC12 BAY AREA
-http://bbiptv.net:8000/Cathy6335/Williams/1221
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12.png" group-title="SPORTS USA", PAC12 INSIDER
-http://bbiptv.net:8000/Cathy6335/Williams/2661
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12la.png" group-title="SPORTS USA", PAC12 LOS ANGELES
-http://bbiptv.net:8000/Cathy6335/Williams/1222
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12mn.png" group-title="SPORTS USA", PAC12 MOUNTAIN
-http://bbiptv.net:8000/Cathy6335/Williams/1223
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12oregon.png" group-title="SPORTS USA", PAC12 OREGON
-http://bbiptv.net:8000/Cathy6335/Williams/1225
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/pac12washington.png" group-title="SPORTS USA", PAC12 WASHINGTON
-http://bbiptv.net:8000/Cathy6335/Williams/1226
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/rootsports.png" group-title="SPORTS USA", ROOT SPORTS NORTHWEST
-http://bbiptv.net:8000/Cathy6335/Williams/248
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/rootsports.png" group-title="SPORTS USA", ROOTS SPORTS
-http://bbiptv.net:8000/Cathy6335/Williams/3806
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/sny.png" group-title="SPORTS USA", SNY
-http://bbiptv.net:8000/Cathy6335/Williams/255
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/spectrumsportsnet.png" group-title="SPORTS USA", SPECTRUM SPORTSNET LA DODGERS
-http://bbiptv.net:8000/Cathy6335/Williams/2945
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/spectrumsportsnet.png" group-title="SPORTS USA", SPECTRUM SPORTSNET LA LAKERS
-http://bbiptv.net:8000/Cathy6335/Williams/2946
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/sportsman.png" group-title="SPORTS USA", SPORTSMAN CHANNEL
-http://bbiptv.net:8000/Cathy6335/Williams/1239
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/stadium.png" group-title="SPORTS USA", STADIUM
-http://bbiptv.net:8000/Cathy6335/Williams/256
-
-#EXTINF:-1 tvg-logo="http://147.135.16.159/logos/tennischannel.png" group-title="SPORTS USA", TENNIS CHANNEL
-http://bbiptv.net:8000/Cathy6335/Williams/1525
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo$/tudn.png" group-title="SPORTS USA", TUDN
-http://bbiptv.net:8000/Cathy6335/Williams/3661
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/ufcfightpass.png" group-title="SPORTS USA", UFC FIGHT PASS
-http://bbiptv.net:8000/Cathy6335/Williams/596
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/willow.png" group-title="SPORTS USA", WILLOW CRICKET
-http://bbiptv.net:8000/Cathy6335/Williams/3649
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/worldfishing.png" group-title="SPORTS USA", WORLD FISHING NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/1258
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/wwe.png" group-title="SPORTS USA", WWE NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/1264
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/yes.png" group-title="SPORTS USA", YES NETWORK
-http://bbiptv.net:8000/Cathy6335/Williams/236
-
-#EXTINF:-1 tvg-logo="http://boomboomhosting.net/logo/USA/zonafutbol.png" group-title="SPORTS USA", ZONA FUTBOL TUDN
-http://bbiptv.net:8000/Cathy6335/Williams/2940
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/sctv-id.png" group-title="MITV",SCTV 2
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+            》》》》NET TV《《《《
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/net-id.png" group-title="MITV", NET HD 
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+
+            》》》》TVONE《《《《
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" group-title="MITV", TV ONE HD1
+#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704431&extension=ts&play_token=uHTvPzYTBq
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tv-one-id.png" group-title="MITV",TVONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
+
+            》》》》KOMPAS TV《《《《
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/kompas-tv-id.png" group-title="MITV",KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
+
+            》》》》METRO TV《《《《
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" group-title="MITV", METRO TV HD1
+#http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704501&extension=ts&play_token=0GjmHJXSQT
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/metro-tv-id.png" group-title="MITV",METRO TV
+http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
+
+            》》》》TVRI《《《《
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="MITV", TVRI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/tvri-id.png" group-title="MITV",TVRI World 
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvcat.org
+
+            》》》》MOJI TV《《《《
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/moji-id.png" group-title="MITV", MOJI 
+http://iptvtree.net:8080/devtv/5af3eeb538/298550
+
+            》》》》RTV《《《《
+#EXTINF:-1 group-title="MITV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/indonesia/rtv-id.png", RTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
+
+            》》》》CNN INDONESIA《《《《
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/international/cnn-international-int.png?raw=true" group-title="MITV",CNN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8 
+
+           》》》》MAGNA TV《《《《
+#EXTINF:-1 group-title="MITV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/MagnaChannel.png",MAGNA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+
+           》》》》RODJA TV《《《《
+#EXTINF:-1 group-title="MITV"tvg-logo="https://logos.fandom.com/wiki/Rodja_TV?file=Rodja_TV.png",RODJA TV HD 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+
+            》》》》BIZNET《《《《
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/XqUfQKA.png" group-title="MITV",Biznet Lifestyle
+http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist_w109806785_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1qZ0RLUGNsY0dkWmZ2cklEeGZNZHBUN3Zfc3JNV0NidWJudEdvOWNDWVdwY0JCUWFsTWxMUXhIc3dtNDNQYlZS.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/J5QNqJ0.png" group-title="MITV",Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/ZREy4zM.png" group-title="MITV",Biznet Adventure
+http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8?checkedby:iptvcat.org
 
