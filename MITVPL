@@ -11,7 +11,7 @@ http://a1.dinott.com:80/play/live.php?mac=00:1a:79:7a:bf:78&stream=704460&extens
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
             》》》》TRANS7《《《《
-#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MITV",Trans7
+#EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MITV",Trans7 1
 https://video.detik.com/trans7/smil:trans7.smil/index.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="ID" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="MITV",Trans7
 
